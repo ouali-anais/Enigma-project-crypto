@@ -49,7 +49,7 @@ Ce projet est basé sur plusieurs classes :
 
 Ce projet a été réalisé en suivant le tutoriel YouTube suivant : [Tutoriel Enigma en Python](https://www.youtube.com/watch?v=sbm2dmkmqgQ&t=2s)
 
-## 📜 Licence
+## Licence
 
 Ce projet est sous licence MIT 
 
